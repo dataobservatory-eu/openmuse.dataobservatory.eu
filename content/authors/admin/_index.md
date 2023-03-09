@@ -64,7 +64,8 @@ email: ''
 highlight_name: true
 ---
 
-The [OpenMuse](https://music.dataobservatory.eu/project/openmuse/) project brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers).
+The [OpenMuse](https://music.dataobservatory.eu/project/openmuse/) project brings together music industry stakeholders and researchers from 12 European countries (11 EU countries and Ukraine). Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers).
+
 
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.  {{< icon name="sun" pack="fas" >}}We are committed to the {{< staticref "https://www.bitss.org/opa/community-standards/" "newtab" >}}Guidelines for Open Policy Analysis{{< /staticref >}}.
 
