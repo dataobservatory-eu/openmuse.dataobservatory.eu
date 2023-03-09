@@ -11,6 +11,10 @@ main:
     url: '#about'
     weight: 11
     parent: Home
+  - name: Terms & Conditions
+    url: "terms"
+    weight: 12
+    parent: Home
   - name: News
     weight: 20
     identifier: News
