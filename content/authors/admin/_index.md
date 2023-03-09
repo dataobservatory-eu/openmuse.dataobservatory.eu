@@ -1,6 +1,6 @@
 ---
 # Display name
-title: OpenMuse
+title: Open Music Europe
 
 # Is this the primary user of the site?
 superuser: true
@@ -12,6 +12,8 @@ role: An inclusive, bottom-up, open, collaborative observatory for the European 
 organizations:
   - name: Horizon Europe
     url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
+  - name: CORDIS
+    url: https://cordis.europa.eu/project/id/101095295
   - name: JUMP European Music Market Accelerator
     url: https://www.jumpmusic.eu/fellow2021/automated-music-observatory/
   - name: Yes!Delft AI+Blockchain Validation Lab
