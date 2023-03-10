@@ -28,12 +28,11 @@ content:
   email: ""
   phone: ""
   address:
-    street: 
-    city: The Hague
+    street: Adenauerplatz 1
+    city: Heidelberg 69115, 
     region: Zuid-Holland
-    postcode: ''
-    country: Netherlands
-    country_code: NL
+    country: Germany
+    country_code: DE
   coordinates:
     latitude: '52.07'
     longitude: '4.313'

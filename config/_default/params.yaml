@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'Digital Music Observatory'
-    description: 'An open knowledge platform for the music industry'
+    org_name: 'Open Music Europe'
+    description: ''
     twitter: 'DigitalMusicObs'
   analytics:
     google_analytics: 'G-3CCTPKHHKL'
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2020-{year} Daniel Antal, Reprex B.V. This work is licensed under {license}'
+    notice: 'Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them. The contents are created by Synyo and project partners. Template: © 2023-{year} wowchemy, Daniel Antal, Reprex B.V. This work is licensed under {license}. The website is hosted by Sybell Informatika Kft.'
     license:
       enable: true
       allow_derivatives: false
