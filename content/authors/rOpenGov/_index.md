@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 
 rOpenGov is an international open source developer network for open government data analytics in R and has released various packages for retrieval, refinement, and analysis of open data from statistical authorities over the past decade. The network was formally introduced at the NIPS Machine Learning Open Source Software workshop in 2013, and has now active contributors from multiple countries. The project aims to facilitate the seamless incorporation of open government data into reproducible statistical and probabilistic programming workflows.

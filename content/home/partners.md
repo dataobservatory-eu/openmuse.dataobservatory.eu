@@ -13,7 +13,7 @@ subtitle = "Join our open collaboration stakeholder network as a [data curator](
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["developers", "data curators", "service development team", "institutional partners", "join us"]
+  user_groups = ["developers", "researchers", "service development team", "institutional partners", "join us"]
 
 [design]
   # Show user's social networking links? (true/false)

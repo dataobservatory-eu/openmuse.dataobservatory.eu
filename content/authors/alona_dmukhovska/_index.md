@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- data curators
+- researchers
 ---
 
 Alona works in the music industry for almost a decade. Starting as a volunteer for the music festival she soon grew to the position of program director taking care of 100+ acts performing the biggest festival stages in Ukraine. She believes in the power of education and networking having done the music exchange projects in Germany, the Netherlands, the Czech Republic, and even in the Middle East (Kyrgyzstan, hello!). 

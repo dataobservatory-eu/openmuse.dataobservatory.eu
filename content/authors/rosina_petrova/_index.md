@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- data curators
+- researchers
 ---
 
 Rosina is a collective copyright management professional and the Head of the Public Performance Licensing Department at the Bulgarian copyright society Musicautor/Музикаутор and takes care of the music licensing processes in the hotels, restaurants and catering sector, live events, theaters, cinemas, and transport. She is also experienced in the field of music copyright in the digital world and the data exchange processes between digital service providers and collective management organizations.

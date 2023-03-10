@@ -72,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- data curators
+- researchers
 ---
 
 Caterina is a legal scholar with an interest in copyright, cultural diversity and access to knowledge, which has led her to deal with copyright metadata and open science data. She is curating data for our music observatory to test algorithmic biases against women, minorities and other vulnerable groups in big data. She is also participating in our effort to build a sustainable business model based on governmental (PSI) open data, scientific open data, and various new data pooling methods.

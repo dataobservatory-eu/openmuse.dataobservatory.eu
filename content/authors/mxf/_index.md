@@ -49,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 
 MXF is a non-profit NGO with charitable status founded in 2015, working on projects to develop the music and nightlife sectors in Lithuania. MXF also runs [Vilnius Night Alliance](https://vna.lt/), an initiative to unite socially responsible venues, bookers, and artists under a code of ethics, representing their interests at local and national government level. This gives MXF access to a wide variety of businesses and musicians in Lithuania and high visibility in the entertainment and hospitality sectors. Vilnius Night Alliance is known worldwide as an innovator in campaigning for responsible and sustainable nightlife development.

@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- data curators
+- researchers
 ---
 
 Eszter is a copyright lawyer and copyright management professional with an interest in numbers.  She helps us curate data about repertoire use, revenues and valuations in various forms of mechanical, public performance licensing, and harm compensation contexts. Her main occupation is being a legal counsel for a collective management organization, but she is a data curator in the observatory in a personal capacity. 

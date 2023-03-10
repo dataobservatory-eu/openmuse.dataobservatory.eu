@@ -1,7 +1,7 @@
 ---
 content:
   user_groups:
-  - data curators
+  - researchers
   - developers
   - institutional partners
 design:

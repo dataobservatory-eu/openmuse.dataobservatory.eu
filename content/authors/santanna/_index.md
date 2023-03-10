@@ -49,6 +49,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 The [DIRPOLIS Institute](https://www.santannapisa.it/en/institute/dirpolis/institute-law-politics-and-development) (Institute of Law, Politics and Development) is a research center devoted to interdisciplinary studies in the fields of law, economics and political sciences. Its core mission is to conduct innovative research by adopting a multidisciplinary approach to offer a comprehensive and multi-faceted representation of legal, social, economic and political phenomena. The Institute strives to provide scientifically sound and action-oriented bases to effective decision-making processes, at both private and public levels.

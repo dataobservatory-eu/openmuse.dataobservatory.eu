@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- data curators
+- researchers
 ---
 
 Dominika is a musicologist and a music rights management professional. She is working on music diversity and circulation issues, and building the Listen Local databases. Her work is particularly important to understand market shares and potential under-representation biases on broadcasting and streaming curation, and inclusion in the re-opening live music sector.

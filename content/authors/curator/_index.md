@@ -84,7 +84,7 @@ social:
 # email: "" <we don't use this>
 
 # Organizational groups that you belong to (for People widget)
-#   Change - join us to - data curators
+#   Change - join us to - researchers
 user_groups:
   - join us
 ---
