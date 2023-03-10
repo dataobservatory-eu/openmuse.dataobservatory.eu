@@ -14,14 +14,10 @@ organizations:
     url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
   - name: CORDIS
     url: https://cordis.europa.eu/project/id/101095295
-  - name: JUMP European Music Market Accelerator
-    url: https://www.jumpmusic.eu/fellow2021/automated-music-observatory/
-  - name: Yes!Delft AI+Blockchain Validation Lab
-    url: https://www.yesdelft.com/focus-areas/artificial-intelligence/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Big data for all---small venues, independent labels, startups, great and undiscovered artists, and lead the way to create a truly inclusive, decentralized music obsevatory.
+bio: Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning and accuracy. We provide the data needed for these actions.
 
 # Interests to show in About widget
 interests: ""
@@ -70,11 +66,10 @@ Using transparent methods and tools, `Open Music Europe` (official abbreviation:
 
 Using the OMO and our open-source software, music MSMEs without technical departments or expertise will be able to access and analyse open data; model volume and value, including of zero-price uses; create better business models; and generate corporate social responsibility and sustainability reports; all at a fraction of current costs. We validate these tools in four pilot studies that will bring concrete benefits to stakeholders within the project lifespan.
 
+{{< icon name="sun" pack="fas" >}}We are committed to the {{< staticref "https://www.bitss.org/opa/community-standards/" "newtab" >}}Guidelines for Open Policy Analysis{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.  {{< icon name="sun" pack="fas" >}}We are committed to the {{< staticref "https://www.bitss.org/opa/community-standards/" "newtab" >}}Guidelines for Open Policy Analysis{{< /staticref >}}.
 
-
-Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/): [Music Economy](/pillars/music-and-society/); [Diversity & Circulation](/pillars/diversity-circulatoin/); [Music & Society](/pillars/music-and-society/) and [Innovation - innovative data applications](/#usecases)
+Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/): `WP1` [Music Economy](https://music.dataobservatory.eu//pillars/music-and-society/); `WP2` [Diversity & Circulation](https://music.dataobservatory.eu//pillars/diversity-circulatoin/); `WP3` [Music & Society](https://music.dataobservatory.eu//pillars/music-and-society/) and `WP4` [Innovation - innovative data applications](https://music.dataobservatory.eu//#usecases).
 
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
