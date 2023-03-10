@@ -62,4 +62,4 @@ user_groups:
 - institutional partners
 ---
 
-[Artisjus](https://www.artisjus.hu/english/) is a partner in the [OpenMusE Consortium]((https://music.dataobservatory.eu/usecase/openmuse)), an initiator of the former [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/) project, and provides us with high-value and exclusive CAP survey data for developing further harmonization.
+[Artisjus](https://www.artisjus.hu/english/) is a partner in the [Open Music Europe]((https://music.dataobservatory.eu/usecase/openmuse)), an initiator of the former [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/) project, and provides us with high-value and exclusive CAP survey data for developing further harmonization.

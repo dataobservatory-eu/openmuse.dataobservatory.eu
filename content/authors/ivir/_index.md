@@ -15,7 +15,7 @@ role: Scientific Project Leader
 
 # Organizations/Affiliations
 organizations:
-- name: Institute for Information Law
+- name: Institute for Information Law, University of Amsterdam
   url: "https://www.ivir.nl/projects/cultural-creative-sectors-and-industries-data-observatory/"  
 
 # Short bio (displayed in user profile at end of posts)

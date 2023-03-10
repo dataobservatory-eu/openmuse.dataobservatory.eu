@@ -66,26 +66,22 @@ main:
     url: 'https://zenodo.org/communities/music_observatory'
     weight: 48
     parent: Data
-  - name: 🖥️ API
-    url: '#data'
-    weight: 49
-    parent: Data
-  - name: Publications
-    url: '#featured'
-    weight: 60
-    identifier: Publications
-  - name: Featured
-    url: '#featured'
-    weight: 60
-    parent: Publications
-  - name: All Publications
-    url: '#publications'
-    weight: 62
-    parent: Publications
-  - name: Contributors
+#  - name: Publications
+#    url: '#featured'
+#    weight: 60
+#    identifier: Publications
+#  - name: Featured
+#    url: '#featured'
+#    weight: 60
+#    parent: Publications
+#  - name: All Publications
+#    url: '#publications'
+#    weight: 62
+#    parent: Publications
+  - name: Consortium
     url: '#contributors'
     weight: 70
-    identifier: Contributors
+    identifier: Consortium
   - name: Contact
     url: '#contact'
     weight: 90
