@@ -6,7 +6,7 @@ title: Open Music Europe
 superuser: true
 
 # Role/position/tagline
-role: An inclusive, bottom-up, open, collaborative observatory for the European music industry, sector and heritage organizations.
+role: An open, scalable data-to-policy pipeline for European Music Ecosystems.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,7 +64,11 @@ email: ''
 highlight_name: true
 ---
 
-The [OpenMuse](https://music.dataobservatory.eu/project/openmuse/) project brings together music industry stakeholders and researchers from 12 European countries (11 EU countries and Ukraine). Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers).
+`Open Music Europe` brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning and accuracy. We provide the data needed for these actions.
+
+Using transparent methods and tools, `Open Music Europe` (official abbreviation: OpenMusE) maps the policy as well as the data landscape. The project bridges data gaps and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report our findings and every step taken to reach them.
+
+Using the OMO and our open-source software, music MSMEs without technical departments or expertise will be able to access and analyse open data; model volume and value, including of zero-price uses; create better business models; and generate corporate social responsibility and sustainability reports; all at a fraction of current costs. We validate these tools in four pilot studies that will bring concrete benefits to stakeholders within the project lifespan.
 
 
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.  {{< icon name="sun" pack="fas" >}}We are committed to the {{< staticref "https://www.bitss.org/opa/community-standards/" "newtab" >}}Guidelines for Open Policy Analysis{{< /staticref >}}.
