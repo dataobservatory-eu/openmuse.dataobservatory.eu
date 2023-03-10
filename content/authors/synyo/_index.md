@@ -44,4 +44,4 @@ user_groups:
 - institutional partners
 ---
 
-`SYNYO` explores and develops novel methods, technologies and solutions in various domains tackling societal, political, ecological and economic challenges. Analyse the impact of emerging technologies from different angles and interdisciplinary perspectives. Technical expertise that is applied to tackle contemporary challenges in various disciplines such as big/open data research, digital futures, e-health, citizen inclusion, and smart technologies. Strong on dissemination and communication
+`SYNYO` explores and develops novel methods, technologies and solutions in various domains tackling societal, political, ecological and economic challenges. Analyse the impact of emerging technologies from different angles and interdisciplinary perspectives. Technical expertise that is applied to tackle contemporary challenges in various disciplines such as big/open data research, digital futures, e-health, citizen inclusion, and smart technologies. Strong on dissemination and communication.
