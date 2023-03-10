@@ -14,6 +14,9 @@ image:
   focal_point: Smart
 
 links:
+- icon: address-book
+  icon_pack: far
+  link: /authors/leo_lahti/
 - icon: github
   icon_pack: fab
   link: hhttps://github.com/dataobservatory-eu/music_tech_innovation/
@@ -29,4 +32,4 @@ slides: ""
 
 The Report on Music Innovation & Technology in Europe is developed following the Open Policy Analysis Guidelines.  You can find the repository of all assets on [github.com/dataobservatory-eu/music_tech_innovation/](https://github.com/dataobservatory-eu/music_tech_innovation/).
 
-This deliverable belongs to the [Music Tech & Innovation ](https://music.dataobservatory.eu/pillar/innovation/) pillar of our Open Music Observatory.
+This deliverable belongs to the [Music Tech & Innovation ](https://music.dataobservatory.eu/pillar/innovation/) pillar of our [Open Music Observatory](/resources/open_music_observatory/).

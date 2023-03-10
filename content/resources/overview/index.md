@@ -28,16 +28,28 @@ url_video: ''
 slides: ""
 ---
 
-D1.1 Economy of music in Europe: Methods and indicators
-D1.2 Report on the European Music Economy
+D1.1 [Economy of music in Europe: Methods and indicators](/resources/european-music-economy/)
+
+D1.2 [Report on the European Music Economy](/resources/european-music-economy/)
+
 D1.3 Report on Music Data Improvement Initiatives
-D2.1 Music diversity and circulation: Novel data collection methods and indicators
-D2.2 Report on Music Diversity and Circulation in Europe
-D3.1 Music, Society, and Citizenship: Novel data collection methods and indicators
-D3.2 Report on Music, Society, and Citizenship in Europe
-D4.1 Open-source music data software ecosystem
-D4.2 Report on Music Innovation & Technology in Europe
+
+D2.1[ Music diversity and circulation: Novel data collection methods and indicators]((/resources/music-diversity-circulation/))
+
+D2.2 [Report on Music Diversity and Circulation in Europe](/resources/music-diversity-circulation/)
+
+D3.1 [Music, Society, and Citizenship](/resources/music_society_citizenship/): Novel data collection methods and indicators
+
+D3.2 [Report on Music, Society, and Citizenship in Europe](/resources/music_society_citizenship/)
+
+D4.1 [Open-source music data software ecosystem](/software/)
+
+D4.2 [Report on Music Innovation & Technology in Europe](/resources/music_tech_innovation/)
+
 D4.3 Software Validation Report
-D5.1 Open Music Observatory
+
+D5.1 [Open Music Observatory](/resources/open_music_observatory/)
+
 D5.6 Policy Brief 1
+
 D5.7 Policy Brief 2
