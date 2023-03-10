@@ -83,7 +83,7 @@ main:
     weight: 63
     parent: Resources
   - name: Music Society & Citizenship
-    url: ../resources/european-music-economy/
+    url: ../resources/music-society-citizenship/
     weight: 64
     parent: Resources
   - name: Tech & Innovation
