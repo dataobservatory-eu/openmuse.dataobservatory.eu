@@ -16,21 +16,21 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: false
 
   # Contact details (edit or remove options as required)
   email: ""
   phone: ""
   address:
     street: Adenauerplatz 1
-    city: Heidelberg 69115, 
-    region: Zuid-Holland
+    city: Heidelberg 69115
+    region: Baden-Württemberg
     country: Germany
     country_code: DE
   coordinates:
@@ -52,3 +52,5 @@ content:
 design:
   columns: '2'
 ---
+
+You can get in touch with the Open Music Europe Consortium via its members (check for contact links in the [Contributors](/#contributors) menu (first key persons, or scroll downwards for institutional contacts) or via the coordinator of the Consortium, [Sinus GmbH](https://www.sinus-institut.de/en/contact).

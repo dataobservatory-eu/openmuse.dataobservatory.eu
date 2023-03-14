@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Antal
+title: Daniel Antal, CFA
 name: Daniel Antal
 
 # Username (this should match the folder name)
@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist & Founder of the Digital Music Observatory
+role: Policy director and WP5 Dissemination, Communication and Exploitation Lead
 
 # Organizations/Affiliations
 organizations:
@@ -49,10 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/antaldaniel
+  link: https://reprex.nl/contact/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7513-6760
@@ -69,8 +66,6 @@ social:
   icon_pack: fab
   link: https://keybase.io/antaldaniel
   
-
-  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -81,11 +76,10 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- developers
+- work package leaders
 ---
 
-Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He applies data science practice, open-source software development with sound economics and valuation techniques. 
+`Daniel Antal` is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He applies data science practice, open-source software development with sound economics and valuation techniques. 
 
-He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/ and at the [Institute for Information Law](https://www.ivir.nl/employee/antaldaniel/) of the University of Amsterdam.
+He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/) and at the [Institute for Information Law](https://www.ivir.nl/employee/antaldaniel/) of the University of Amsterdam.

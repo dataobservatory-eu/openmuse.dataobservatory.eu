@@ -71,9 +71,6 @@ Using the [Open Music Observatory](/resources/open-music-observatory/) pillars a
 
 Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/): `WP1` [Music Economy](https://music.dataobservatory.eu//pillars/music-and-society/); `WP2` [Diversity & Circulation](https://music.dataobservatory.eu//pillars/diversity-circulatoin/); `WP3` [Music & Society](https://music.dataobservatory.eu//pillars/music-and-society/) and `WP4` [Innovation - innovative data applications](https://music.dataobservatory.eu//#usecases).
 
-
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
 
-{{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}}.
-
-
+<td style="text-align: center;">{{< figure src="/img/partner_logos/EU_Funding-450x99.png" caption="" numbered="false" >}}</td>

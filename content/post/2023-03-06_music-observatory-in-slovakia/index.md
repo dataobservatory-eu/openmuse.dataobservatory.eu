@@ -31,8 +31,12 @@ links:
   url: https://music.dataobservatory.eu/apps/smart-policy-documents/
 - icon: linkedin
   icon_pack: fab
-  name: Reprex
-  url: https://www.linkedin.com/company/68855596/
+  name: Follow us
+  url: https://www.linkedin.com/company/79286750/
+- icon: fa-eu-emblem
+  icon_pack: far
+  name: 🇪🇺 Consortium on CORDIS
+  url: https://cordis.europa.eu/project/id/101095295
 
 # Featured image
 image:

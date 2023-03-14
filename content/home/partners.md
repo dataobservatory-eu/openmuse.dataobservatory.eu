@@ -7,20 +7,15 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Contributors of OpenMuse"
-subtitle = "Join our open collaboration stakeholder network as a [data curator](/authors/curator), [developer](/authors/developer). More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/)."
+title = "Key persons and institutional members of Open Music Europe"
+subtitle = "Join our Observatory Stakeholder Network as a [data curator](/authors/curator), [developer](/authors/developer). More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/). You find more information on the EU's official [CORDIS](https://cordis.europa.eu/project/id/101095295) website."
 
 [content]
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["developers", "researchers", "service development team", "institutional partners", "join us"]
+  user_groups = ["consortium partners", "work package leaders"]
 
 [design]
-  # Show user's social networking links? (true/false)
   show_social = false
-
-  # Show user's interests? (true/false)
-  show_interests = true
+show_interests = true
 
 [design.background]
   # Apply a background color, gradient, or image.

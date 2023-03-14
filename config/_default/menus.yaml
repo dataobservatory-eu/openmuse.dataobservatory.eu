@@ -1,6 +1,4 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
 main:
@@ -12,7 +10,7 @@ main:
     weight: 11
     parent: Home
   - name: Terms & Conditions
-    url: "terms"
+    url: "#terms"
     weight: 12
     parent: Home
   - name: News
@@ -66,9 +64,12 @@ main:
     url: 'https://zenodo.org/communities/music_observatory'
     weight: 48
     parent: Data
+  - name: GO FAIR
+    url: https://www.go-fair.org/fair-principles/fairification-process/
+    parent: Data
   - name: Resources
     url: ../resources/
-    weight: 60
+    weight: 49
     identifier: Resources
   - name: Overview
     url: ../resources/

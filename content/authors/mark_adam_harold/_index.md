@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # change this to your role
-role: Consultant
+role: Open Music Europe project ambassador
 
 # Organizations/Affiliations
 # you can add multiple -name: Affiliation name and url: myurl pairs.
@@ -58,7 +58,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Change - join us to - researchers
 user_groups: 
-  - researchers
+  - work package leaders
 ---
 
 Mark is a music and nightlife consultant specialising in public affairs and communications. Former City Councillor and Night Mayor of Vilnius, first elected immigrant in the history of Lithuania. Leading the [Listen Local Lithuania](/project/listen-local) project. 
