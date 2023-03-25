@@ -32,7 +32,7 @@ D1.1 [Economy of music in Europe: Methods and indicators](/resources/european-mu
 
 D1.2 [Report on the European Music Economy](/resources/european-music-economy/)
 
-D1.3 Report on Music Data Improvement Initiatives
+D1.3 [Report on Music Data Improvement Initiatives](/resources/music-data-improvement-initiatives)
 
 D2.1[ Music diversity and circulation: Novel data collection methods and indicators]((/resources/music-diversity-circulation/))
 
@@ -42,11 +42,11 @@ D3.1 [Music, Society, and Citizenship](/resources/music_society_citizenship/): N
 
 D3.2 [Report on Music, Society, and Citizenship in Europe](/resources/music_society_citizenship/)
 
-D4.1 [Open-source music data software ecosystem](/software/)
+D4.1 [Open-source music data software ecosystem](/resources/open_music_europe_software_ecosystem) and the [Software]() menu.
 
 D4.2 [Report on Music Innovation & Technology in Europe](/resources/music_tech_innovation/)
 
-D4.3 Software Validation Report
+D4.3 [Software Validation Report](/resources/openmuse_software_validation_report/)
 
 D5.1 [Open Music Observatory](/resources/open_music_observatory/)
 
