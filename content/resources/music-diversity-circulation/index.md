@@ -31,6 +31,6 @@ url_video: ''
 slides: ""
 ---
 
-The `Report on Music Diversity and Circulation in Europe` is developed following the Open Policy Analysis Guidelines.  You can find the repository of all assets on [github.com/dataobservatory-eu/music_diversity_circulation](https://github.com/dataobservatory-eu/music_diversity_circulation).
+The `Report on Music Diversity and Circulation in Europe` is developed following the [Open Policy Analysis Guidelines](/resources/opa/).  You can find the repository of all assets on [github.com/dataobservatory-eu/music_diversity_circulation](https://github.com/dataobservatory-eu/music_diversity_circulation).
 
 This deliverable belongs to the [Music Diversity and Circulation](https://music.dataobservatory.eu/pillar/diversity-circulation/) pillar of our [Open Music Observatory](/resources/open_music_observatory/).

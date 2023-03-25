@@ -18,7 +18,6 @@ external_link: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides: ""`.
@@ -42,9 +41,6 @@ links:
   name: Digital Music Observatory
   url: 
 
-
-
-# Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 image:
   # Caption (optional)
@@ -52,9 +48,14 @@ image:
   focal_point: "Center"
 ---
 
-Our ambition is to truly maximize transparency, (re)usability, scientific, policy, and business impact while embracing the best practices laid out in the the recommendations of the *Reproducibility of scientific results scoping report*, and the *Progress on Open Science: Towards a Shared Research Knowledge System* policy documents of the European Commission's DG Research & Innovation, as well as the best practices outlined  in the evidence-based *Knowledge4Policy* [K4P](https://knowledge4policy.ec.europa.eu/home_en) platform of the European Commission. For the first time in Europe, we will apply and contextualize the [Open Policy Analysis Guidelines](http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf), which grew out of several initiatives in research transparency with the aim of maximizing benefits in the context of the [Foundations for Evidence-based Policy Making Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174) initiative in the United States. We want to ensure that by relying not only on the best European practices, but considering trans-Atlantic experiences, we will make the most out of the opportunities offered by the European [Open Data Directive of 2019]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024)). This will not only mean rendering a dramatically increased data availability for our partners, as well as increased quality assurance and transparency in our work, but also immediate data access. Following the EU & US best practices we have already placed _before sumbitting our proposal_ our important software tools, methodologies, and sample data in the [Zenodo](https://zenodo.org/communities/music_observatory/) repository.
+Our ambition is to truly maximize transparency, (re)usability, scientific, policy, and business impact while embracing the best practices laid out in the the recommendations of the *Reproducibility of scientific results scoping report*, and the *Progress on Open Science: Towards a Shared Research Knowledge System* policy documents of the European Commission's DG Research & Innovation, as well as the best practices outlined  in the evidence-based *Knowledge4Policy* [K4P](https://knowledge4policy.ec.europa.eu/home_en) platform of the European Commission. For the first time in Europe, we will apply and contextualize the [Open Policy Analysis Guidelines](/resources/opa/), which grew out of several initiatives in research transparency with the aim of maximizing benefits in the context of the [Foundations for Evidence-based Policy Making Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174) initiative in the United States. We want to ensure that by relying not only on the best European practices, but considering trans-Atlantic experiences, we will make the most out of the opportunities offered by the European [Open Data Directive of 2019]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024)). This will not only mean rendering a dramatically increased data availability for our partners, as well as increased quality assurance and transparency in our work, but also immediate data access. Following the EU & US best practices we have already placed _before submitting our proposal_ our important software tools, methodologies, and sample data in the [Zenodo](https://zenodo.org/communities/music_observatory/) repository.
 
 ## Open Materials (Level 3) {#open-materials}
+
+{{< spoiler text="Compliance in practice" >}}
+See the [Open materials](/post/2023-03-27_open_music_europe_opa/#open-materials)  part of our introductory blogpost.
+{{< /spoiler >}}
+
 
 6. **Standardise the file structure so that materials are organized in a way that is accessible to an informed reader**: all project components are organized in a selfcontained folder using a Standard File Structure (SFS), and a readme file is included.  See examples: 
 
@@ -64,11 +65,15 @@ Our ambition is to truly maximize transparency, (re)usability, scientific, polic
 
 9. **Use a version control strategy**: All team members use version control software and track changes in a shared project repository. All our deliverables are delivered in a version-controlled repository. 
 
-Our commitment to the OPA is on level 3; WP leaders are requested to enforce compliance on this level. Reprex, Synyo and the Turku Data Science team will provide to WP teams assistance to make them compliant with level 3 if they can start working only on level 2 or level 1 based on bilateral agreements and training programs.
+Our commitment to the OPA is on level 3; WP leaders are requested to enforce compliance on this level. Reprex, Synyo and the Turku Data Science team will provide to WP teams assistance to make them compliant with level 3 if they can start working only on level 2 or level 1 based on bilateral agreements and training programs. 
 
 ## Open Analysis (Level 3) {#open-analysis}
 
-**Provide clear accounts of all methodological procedures in a way that is easily interpreted by an informed reader**: Code is clearly documented into a dynamic document, or open notebook. No spreadsheets. [Synyo]() is tasked to make document templates that help compliance with this principle, and are integrated with popular word processors or presentation templates--see [Open Materials](). [Reprex]() and [Turku]() assist all work package leaders to comply in content with this requirement.
+{{< spoiler text="Compliance in practice" >}}
+See the [Open analysis](/post/2023-03-27_open_music_europe_opa/#open-analysis)  part of our introductory blogpost.
+{{< /spoiler >}}
+
+**Provide clear accounts of all methodological procedures in a way that is easily interpreted by an informed reader**: Code is clearly documented into a dynamic document, or open notebook. No spreadsheets. [Synyo](/authors/synyo/) is tasked to make document templates that help compliance with this principle, and are integrated with popular word processors or presentation templates--see [Open Materials]() above. [Reprex](/authors/reprex/) and [Turku](/authors/utu/) assist all work package leaders to comply in content with this requirement.
 
 **Share raw (or analytic) data and materials in a way that the analysis is reproducible with minimal effort.**  Analytic and raw data are made available through a trusted repository. We chose GitHub as a temporary repository where all our changes can be traced; and periodically we place these materials on Zenodo, where they are stored independently from our Consortium for a very long period. Detailed instructions are provided for accessing raw data that is proprietary or contains sensitive information.
 

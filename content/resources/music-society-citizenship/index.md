@@ -31,7 +31,7 @@ url_video: ''
 slides: ""
 ---
 
-The `Report on the European Music Economy` is developed following the Open Policy Analysis Guidelines.  You can find the repository of all assets on [github.com/dataobservatory-eu/music_society_citizenship/](https://github.com/dataobservatory-eu/music_society_citizenship/).
+The `Report on Music, Society, and Citizenship in Europe` is developed following the [Open Policy Analysis Guidelines](/resources/opa/).  You can find the repository of all assets on [github.com/dataobservatory-eu/music_society_citizenship/](https://github.com/dataobservatory-eu/music_society_citizenship/).
 
 This deliverable belongs to the [Music & Society](https://music.dataobservatory.eu/pillar/music-and-society/) pillar of our [Open Music Observatory](/resources/open_music_observatory/). 
 

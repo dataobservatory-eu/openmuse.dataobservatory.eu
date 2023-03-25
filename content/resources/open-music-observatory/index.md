@@ -31,4 +31,5 @@ slides: ""
 ---
 
 The `Open Music Observatory` consists of four additional pillars added to the [Digital Music Observatory](https://music.dataobservatory.eu/) as a prototype for a future European Music Observatory. It is currently in a very early stage and will be filled out with content throughout the project.
+
 [Music Economy](https://music.dataobservatory.eu/pillar/music-economy/) | [Music Diversity and Circulation](https://music.dataobservatory.eu/pillar/diversity-circulation/) | [Music & Society](https://music.dataobservatory.eu/pillar/music-and-society/) | [Music Tech & Innovation ](https://music.dataobservatory.eu/pillar/innovation/) 
