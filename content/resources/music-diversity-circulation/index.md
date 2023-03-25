@@ -17,10 +17,11 @@ image:
 links:
 - icon: address-book
   icon_pack: far
-  link: /authors/caterina_sganga/
+  url: /authors/caterina_sganga/
 - icon: github
   icon_pack: fab
-  link: https://github.com/dataobservatory-eu/european_music_economy
+  name: "Repository: report assets"
+  url: https://github.com/dataobservatory-eu/music_diversity_circulation
 
 url_code: ''
 url_pdf: ''

@@ -20,7 +20,7 @@ links:
   url: /authors/utu/
 - icon: github
   icon_pack: fab
-  name: Report repository
+  name: "Repository: report assets"
   url: https://github.com/dataobservatory-eu/music_tech_innovation/
 - icon: database
   icon_pack: fas

@@ -18,11 +18,11 @@ links:
 - icon: address-book
   icon_pack: far
   name: Lead
-  link: /authors/james_edwards/
+  url: /authors/james_edwards/
 - icon: github
   icon_pack: fab
-  name: Report assets repository
-  link: https://github.com/dataobservatory-eu/music_society_citizenship/
+  name: "Repository: report assets"
+  url: https://github.com/dataobservatory-eu/music_society_citizenship/
 - icon: database
   icon_pack: fas
   name: Partial & Full Deliverables 
