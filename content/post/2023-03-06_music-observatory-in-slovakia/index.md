@@ -51,7 +51,7 @@ tags:
   - Smart Policy Document
 ---
 
-The Open Music Europe Consortium and Reprex signed a Memorandum of Understanding with the Ministry of Culture of the Slovak Republic, the Economic University of Bratislava, SOZA on utilizing the Open Policy Analysis results.
+The `Open Music Europe Consortium`, Reprex and SOZA signed a Memorandum of Understanding with the Ministry of Culture of the Slovak Republic, the Economic University of Bratislava, SOZA on utilizing the Open Policy Analysis results.
 
 <td style="text-align: center;">{{< figure src="img/blogposts_2023/MoU_signature_20230306_02_2x1.jpg" caption="From left to right: Ľubomír Burgr, Chariman of the Board (SOZA); [Dr James Edwards](https://music.dataobservatory.eu/authors/james_edwards/) Open Music Europe program director; Ferdinand Daňo, rector of EUBA; Rado Kutaš, state secretary; Tomaš Mikš, SOZA; [Daniel Antal](https://reprex.nl/author/daniel-antal/), co-founder of Reprex. Photo: [Dominika Semaňáková](https://music.dataobservatory.eu/authors/dominika_semanakova/)." numbered="false" >}}</td>
 

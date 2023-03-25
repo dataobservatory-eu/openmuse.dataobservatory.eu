@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Business partner, valuing music, home copying and closing the value gap.
+role: WP1 Music economy
 
 # Organizations/Affiliations
 organizations:

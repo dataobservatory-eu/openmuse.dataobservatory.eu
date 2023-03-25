@@ -1,5 +1,6 @@
 ---
 title: "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
+subtitle: "Bacground to Open Music Europe"
 date: '2021-03-25T11:00:00'
 doi:  '10.5281/zenodo.6427514'
 draft: false
@@ -14,7 +15,7 @@ authors: ["Daniel Antal", "Dáša Bulíková (translator)"]
 publication_types: ["4"]
 
 # Abstract and optional shortened version.
-abstract: "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
+abstract: "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? This is a background of the Open Music Europe project; we pledged to continue this feasibility study in WP2."
 
 # Is this a selected publication? (true/false)
 featured: true
@@ -23,8 +24,6 @@ featured: true
 projects: ["Listen Local"]
 
 # Slides (optional).
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 
 # Tags (optional).
@@ -35,7 +34,7 @@ url_pdf:  "https://music.dataobservatory.eu/media/reports/Listen_Local_Feasibili
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: '/project/listen-local'
+url_project: 'https://music.dataobservatory.eu//project/listen-local'
 url_slides: ''
 url_source: ''
 url_video:  ''
@@ -47,9 +46,6 @@ math: true
 image:
   # Caption (optional)
   caption: ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Left"
 ---
 

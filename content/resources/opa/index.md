@@ -1,51 +1,93 @@
-+++
+---
 # Project title.
-title = "Open Policy Analysis"
-subtitle = "Towards a competitive, fair and sustainable European music ecosystem"
+title: "Open Policy Analysis"
+subtitle: "Towards a competitive, fair and sustainable European music ecosystem"
 
 # Date this page was created.
-date = 2022-02-06T14:00:00
-lastmod = 2022-02-07T08:41:00
+date: 2022-02-06T14:00:00
+lastmod: 2022-02-07T08:41:00
 
 # Project summary to display on homepage.
-summary = "Open Policy Analysis is an approach to policy analysis wherein data, code, materials, and clear accounts of methodological decisions are made freely available to facilitate collaboration, discussion, and reuse."
+summary: "Open Policy Analysis is an approach to policy analysis wherein data, code, materials, and clear accounts of methodological decisions are made freely available to facilitate collaboration, discussion, and reuse."
 
 # Tags: can be used for filtering projects.
-tags = ["Open Policy Analysis", "Open Science", "Open Government"]
+tags: ["Open Policy Analysis", "Open Science", "Open Government"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides: "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_code: ""
 
 # Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/antaldaniel"}]
+
+links:
+- icon: database
+  icon_pack: fas
+  name: Digital Music Observatory
+  url: https://music.dataobservatory.eu/
+- icon: database
+  icon_pack: fas
+  name: Digital Music Observatory
+  url: 
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-+++
+  caption: ""
+  focal_point: "Center"
+---
 
 Our ambition is to truly maximize transparency, (re)usability, scientific, policy, and business impact while embracing the best practices laid out in the the recommendations of the *Reproducibility of scientific results scoping report*, and the *Progress on Open Science: Towards a Shared Research Knowledge System* policy documents of the European Commission's DG Research & Innovation, as well as the best practices outlined  in the evidence-based *Knowledge4Policy* [K4P](https://knowledge4policy.ec.europa.eu/home_en) platform of the European Commission. For the first time in Europe, we will apply and contextualize the [Open Policy Analysis Guidelines](http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf), which grew out of several initiatives in research transparency with the aim of maximizing benefits in the context of the [Foundations for Evidence-based Policy Making Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174) initiative in the United States. We want to ensure that by relying not only on the best European practices, but considering trans-Atlantic experiences, we will make the most out of the opportunities offered by the European [Open Data Directive of 2019]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024)). This will not only mean rendering a dramatically increased data availability for our partners, as well as increased quality assurance and transparency in our work, but also immediate data access. Following the EU & US best practices we have already placed _before sumbitting our proposal_ our important software tools, methodologies, and sample data in the [Zenodo](https://zenodo.org/communities/music_observatory/) repository.
+
+## Open Materials (Level 3) {#open-materials}
+
+6. **Standardise the file structure so that materials are organized in a way that is accessible to an informed reader**: all project components are organized in a selfcontained folder using a Standard File Structure (SFS), and a readme file is included.  See examples: 
+
+7. **Label and document each input, including data, research, and guesswork**: list all inputs, and their sources, and provide links or detailed references. In practice, all our inputs are uploaded into the repositories, and they have included in the standard bibliography (.bib) files which make their citation automatic in use. 
+
+8. **Ensure that code/spreadsheets are reproducible**: For code: Code is easily readable and possible to run with just one click. For spreadsheets, this level of compliance is not applicable. The Turku Data Science team and Reprex will assist all our research teams in making their data outputs reproducible.
+
+9. **Use a version control strategy**: All team members use version control software and track changes in a shared project repository. All our deliverables are delivered in a version-controlled repository. 
+
+Our commitment to the OPA is on level 3; WP leaders are requested to enforce compliance on this level. Reprex, Synyo and the Turku Data Science team will provide to WP teams assistance to make them compliant with level 3 if they can start working only on level 2 or level 1 based on bilateral agreements and training programs.
+
+## Open Analysis (Level 3) {#open-analysis}
+
+**Provide clear accounts of all methodological procedures in a way that is easily interpreted by an informed reader**: Code is clearly documented into a dynamic document, or open notebook. No spreadsheets. [Synyo]() is tasked to make document templates that help compliance with this principle, and are integrated with popular word processors or presentation templates--see [Open Materials](). [Reprex]() and [Turku]() assist all work package leaders to comply in content with this requirement.
+
+**Share raw (or analytic) data and materials in a way that the analysis is reproducible with minimal effort.**  Analytic and raw data are made available through a trusted repository. We chose GitHub as a temporary repository where all our changes can be traced; and periodically we place these materials on Zenodo, where they are stored independently from our Consortium for a very long period. Detailed instructions are provided for accessing raw data that is proprietary or contains sensitive information.
+
+
+Share an open report that includes clear accounts of all methodological procedures, data, and assumptions.
+
+
+
+
+
+## Open Outputs
+
+**Ensure unified output by defining the most appropriate format for the report before publishing, and justifying changes to format output across reports**: A detailed description of output is provided, including a sample output published pre-release of final results, using version control within and across reports.
+
+[Synyo]() as an expert in scientific dissemination is in charge for making sure that you have all the templates, and materials that ensure compliance.  This is an iterative process: our work package researchers will try out their templates in practive with the 8 other principles, and ask for refinements for better compliance [here]().
+
+**Establish a clear link between input and output by displaying how the output
+changes under different assumptions.** An interactive tool allowing  for adjusted inputs is provided, and its underlying code shares the same key sections of code behind the analysis section.  [Reprex]() as an expert on reproducible research is assisting our research teams in the work packages to create these interactive policy reports. 
+
 
 Our new software will continue to run in the cloud, depositing all of our findings---*Findable*, *Accessible*, *Interoperable* and *Reuseable* digital assets, including our well-designed and user-tested indicators in 41 data gap fields---into our [Digital Music Observatory](https://music.dataobservatory.eu/), which already hosts a [modern REST API](https://api.music.dataobservatory.eu/) similar to the Eurostat Rest API. *We are still adjusting this service in order to find a way to best implement SDMx and other data standards while maintaining ease of use. We anticipate enhanced usability by April 2022.*
 

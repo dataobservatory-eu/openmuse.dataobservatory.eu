@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Scientific research partner---impact assessment and indicators.
+role: WP1 Music Economy
 
 # Organizations/Affiliations
 organizations:
@@ -31,9 +31,6 @@ topics:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ekonomicka.univerzita
