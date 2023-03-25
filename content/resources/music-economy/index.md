@@ -13,12 +13,18 @@ image:
   focal_point: Smart
 
 links:
-- icon: address-book
-  icon_pack: far
-  link: 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dataobservatory-eu/european_music_economy
+  - icon: github
+    icon_pack: fab
+    name: Indicator development assets
+    url: https://github.com/dataobservatory-eu/european_music_economy
+  - icon: github
+    icon_pack: fab
+    name: Report assets
+    url: https://github.com/dataobservatory-eu/european_music_economy
+  - icon: database
+    icon_pack: fas
+    name: Partial & Full Deliverables 
+    url: https://music.dataobservatory.eu/pillar/music-economy/
 
 url_code: ''
 url_pdf: ''
@@ -60,10 +66,6 @@ Examples of potential indicator candidates developed in WP3 include:
 etc.
 {{% /callout %}}
 
-
-
-
 A pilot study demonstrates exemplary how improved data collection on the value of music can be leveraged to improve artist revenues.
-
 
 You can find the repository of all assets on [github.com/dataobservatory-eu/european_music_economy](https://github.com/dataobservatory-eu/european_music_economy).

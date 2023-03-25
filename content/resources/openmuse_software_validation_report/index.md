@@ -1,9 +1,10 @@
 ---
-title: Report on Music Innovation & Technology in Europe
+title: Software Validation Report
 summary: 
 tags:
   - Resources
-  - Innovation
+  - Software
+  
 date: '2023-03-10T13:52:00+01:00'
 
 # Optional external URL for project (replaces project detail page).
@@ -16,10 +17,12 @@ image:
 links:
 - icon: address-book
   icon_pack: far
-  link: /authors/leo_lahti/
+  name: "Lead: Sinus"
+  url: /authors/sinus-institue/
 - icon: github
   icon_pack: fab
-  link: hhttps://github.com/dataobservatory-eu/music_tech_innovation/
+  name: Deliverable open repository
+  url: https://github.com/dataobservatory-eu/openmuse_software_validation_report
 
 url_code: ''
 url_pdf: ''
@@ -30,6 +33,4 @@ url_video: ''
 slides: ""
 ---
 
-The `Report on Music Innovation & Technology in Europe` is developed following the [Open Policy Analysis Guidelines](/resources/opa/).  You can find the repository of all assets on [github.com/dataobservatory-eu/music_tech_innovation/](https://github.com/dataobservatory-eu/music_tech_innovation/).
-
-This deliverable belongs to the [Music Tech & Innovation ](https://music.dataobservatory.eu/pillar/innovation/) pillar of our [Open Music Observatory](/resources/open_music_observatory/).
+The `Software Validation Report` is developed following the [Open Policy Analysis Guidelines](/resources/opa/).  You can find the repository of all assets on [github.com/dataobservatory-eu/openmuse_software_validation_report](https://github.com/dataobservatory-eu/openmuse_software_validation_report/).

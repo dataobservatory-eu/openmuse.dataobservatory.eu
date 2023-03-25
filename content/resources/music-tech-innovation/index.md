@@ -16,10 +16,16 @@ image:
 links:
 - icon: address-book
   icon_pack: far
-  link: /authors/leo_lahti/
+  name: Lead
+  url: /authors/utu/
 - icon: github
   icon_pack: fab
-  link: hhttps://github.com/dataobservatory-eu/music_tech_innovation/
+  name: Report repository
+  url: https://github.com/dataobservatory-eu/music_tech_innovation/
+- icon: database
+  icon_pack: fas
+  name: "Partial & Full Deliverables"
+  url: https://music.dataobservatory.eu/pillar/innovation/
 
 url_code: ''
 url_pdf: ''

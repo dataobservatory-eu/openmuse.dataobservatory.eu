@@ -17,10 +17,16 @@ image:
 links:
 - icon: address-book
   icon_pack: far
+  name: Lead
   link: /authors/james_edwards/
 - icon: github
   icon_pack: fab
+  name: Report assets repository
   link: https://github.com/dataobservatory-eu/music_society_citizenship/
+- icon: database
+  icon_pack: fas
+  name: Partial & Full Deliverables 
+  url: https://music.dataobservatory.eu/pillar/music-and-society/
 
 url_code: ''
 url_pdf: ''
