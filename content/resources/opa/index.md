@@ -5,7 +5,7 @@ subtitle: "Towards a competitive, fair and sustainable European music ecosystem"
 
 # Date this page was created.
 date: 2022-02-06T14:00:00
-lastmod: 2022-02-07T08:41:00
+lastmod: 2024-03-25T08:41:00
 
 # Project summary to display on homepage.
 summary: "Open Policy Analysis is an approach to policy analysis wherein data, code, materials, and clear accounts of methodological decisions are made freely available to facilitate collaboration, discussion, and reuse."
@@ -88,7 +88,7 @@ Share an open report that includes clear accounts of all methodological procedur
 
 **Ensure unified output by defining the most appropriate format for the report before publishing, and justifying changes to format output across reports**: A detailed description of output is provided, including a sample output published pre-release of final results, using version control within and across reports.
 
-[Synyo]() as an expert in scientific dissemination is in charge for making sure that you have all the templates, and materials that ensure compliance.  This is an iterative process: our work package researchers will try out their templates in practive with the 8 other principles, and ask for refinements for better compliance [here]().
+[Synyo](/author/synyo) as an expert in scientific dissemination is in charge for making sure that you have all the templates, and materials that ensure compliance.  This is an iterative process: our work package researchers will try out their templates in practice with the 8 other principles, and ask for refinements for better compliance [here]().
 
 **Establish a clear link between input and output by displaying how the output
 changes under different assumptions.** An interactive tool allowing  for adjusted inputs is provided, and its underlying code shares the same key sections of code behind the analysis section.  [Reprex]() as an expert on reproducible research is assisting our research teams in the work packages to create these interactive policy reports. 

@@ -75,36 +75,36 @@ main:
     url: ../resources/
     weight: 61
     parent: Resources
-  - name: Music Economy
-    url: ../resources/music-economy/
+  - name: Open Policy Analysis Guidelines
+    url: ../resources/opa/
     weight: 62
     parent: Resources
-  - name: Diversity & Circulation
-    url: ../resources/music-diversity-circulation/
+  - name: WP1 Music Economy
+    url: ../resources/music-economy/
     weight: 63
     parent: Resources
-  - name: Music Society & Citizenship
-    url: ../resources/music-society-citizenship/
+  - name: WP2 Diversity & Circulation
+    url: ../resources/music-diversity-circulation/
     weight: 64
     parent: Resources
-  - name: Tech & Innovation
-    url: ../resources/music-tech-innovation/
+  - name: WP3 Music Society & Citizenship
+    url: ../resources/music-society-citizenship/
     weight: 65
     parent: Resources
-  - name: Open Music Observatory
-    url: ../resources/open-music-observatory/
+  - name: WP4 Tech & Innovation
+    url: ../resources/music-tech-innovation/
     weight: 66
     parent: Resources
-  - name: Open Policy Analysis
-    url: ../resources/opa/
-    weight: 67
+  - name: WP5 Open Music Observatory
+    url: ../resources/open-music-observatory/
+    weight: 66
     parent: Resources
 #    url: '#publications'
 #    weight: 62
 #    parent: Publications
   - name: Consortium
     url: '#contributors'
-    weight: 70
+    weight: 80
     identifier: Consortium
   - name: Contact
     url: '#contact'

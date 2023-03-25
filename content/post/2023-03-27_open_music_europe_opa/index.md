@@ -66,6 +66,10 @@ The **GO FAIR** initiative of the European Open Science Cloud (EOSC)[^2] is mand
 
 ## In practice
 
+Our Consortium, following best practice, placed its assumptions (which were part of our Proposal for this project) into the open science repository of the European OpenAIRE project[^3].
+
+[^3]: Report on the European Music Economy [GO FAIR website](https://zenodo.org/record/6464782#.ZB7GltLMLlg)
+
 The `Open Music Europe Consortium`, EUBA, SOZA and Reprex signed a Memorandum of Understanding with the Ministry of Culture of the Slovak Republic on utilizing the Open Policy Analysis results. 
 
 <td style="text-align: center;">{{< figure src="img/blogposts_2023/MoU_signature_20230306_02_2x1.jpg" caption="From left to right: Ľubomír Burgr, Chariman of the Board (SOZA); [Dr James Edwards](https://music.dataobservatory.eu/authors/james_edwards/) Open Music Europe program director; Ferdinand Daňo, rector of EUBA; Rado Kutaš, state secretary; Tomaš Mikš, SOZA; [Daniel Antal](https://reprex.nl/author/daniel-antal/), co-founder of Reprex. Photo: [Dominika Semaňáková](https://music.dataobservatory.eu/authors/dominika_semanakova/)." numbered="false" >}}</td>
@@ -75,26 +79,35 @@ Following the requirements of **Open Analysis**, the Coordinator of Open Music E
 ### Open Analysis {#open-analysis}
 
 - *Provide clear accounts of all methodological procedures in a way that is easily interpreted by an informed reader*: Code is clearly documented into a dynamic document, or open notebook. No spreadsheets--see further compliance in [Open Materials](/resources/opa/#open-materials). [Synyo](/authors/synyo/) is tasked to make document templates and web content that help compliance with this principle, and [Reprex](/authors/reprex/) and [Turku](/authors/utu) assist all work package leaders with various tools to comply in content with this requirement.
-- *Share raw (or analytic) data and materials in a way that the analysis is reproducible with minimal effort.*  Analytic and raw data are made available through a trusted repository. For example, you can find these for [D1.1 Economy of music in Europe: Methods and indicators]() and [; see the [Resources](/resources/) part of the website for the further repositories of the Work Packages.
+- *Share raw (or analytic) data and materials in a way that the analysis is reproducible with minimal effort.*  
+
+{{% callout note %}}
+The report utilizes the indicators developed in Open Music Europe D1.1 [Economy of music in Europe: Methods and indicators](https://github.com/dataobservatory-eu/economy-music-methods-indicators). See the [Resources](/resources/) part of the website for the further repositories of the Work Packages.
+{{% /callout %}}
+
+
 - **Share raw (or analytic) data and materials in a way that the analysis is reproducible with minimal effort.**  Analytic and raw data are made available through a trusted repository. [D1.3 Report on the European Music Economy](https://github.com/dataobservatory-eu/european_music_economy).
- 
 
-### Open Materials
+### Open Materials {#open-materials}
 
-All project components (for each deliverable output) are organized in a selfcontained folder using a Standard File Structure (SFS), and a readme file is included. 
+All research and innovation team members use version control software and track changes in a shared project repository. All our deliverable are delivered in a version-controlled repository. 
+
+{{% callout note %}}
+For example, the D1.1 deliverable materials can be found in this  [repository](https://github.com/dataobservatory-eu/economy-music-methods-indicators). See the [Resources](/resources/) part of the website for the further repositories of the Work Packages. This will be used for example to monitor the implementation of the `Cultural and Creative Industries Strategy of the Slovak Republic 2030` [Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030](https://www.culture.gov.sk/ministerstvo/strategia-kultury-a-kreativneho-priemyslu-2030/) national policy.
+{{% /callout %}}
+
+
+All project components (for each deliverable output) are organized in a selfcontained folder using a Standard File Structure (SFS), and a readme file is included[^4]. 
+
+[^4]: Links to the README.md files for D1.1 [Economy of music in Europe: Methods and indicators](https://github.com/dataobservatory-eu/economy-music-methods-indicators); D1.3 [Economy of music in Europe: Methods and indicators](https://github.com/dataobservatory-eu/economy-music-methods-indicators).
+
 
 The Work Package leaders ensure that the list all inputs, and their sources, and provide links or detailed references.
 
-Code must be easily readable and possible to run with just one click, and produces tabular data or results[^3]. The Turku Data Science team and Reprex will assist all our research teams in making their data outputs reproducible, particularly with the development of the [dataset](https://dataset.dataobservatory.eu/) package that will ensure that our tabular data outputs will not only be readable by spreadsheet applications but also for machines, i.e. following the standards of the Statistical Data and Metadata Exchange and the W3C Consortium definition of machine-readable output.
+{{% callout note %}}
+The report utilizes the indicators developed in Open Music Europe D1.1 that you can find here: [Economy of music in Europe: Methods and indicators](https://github.com/dataobservatory-eu/economy-music-methods-indicators). The report itself can be found in this repository: [Report on the European Music Economy](https://github.com/dataobservatory-eu/european_music_economy)
+{{% /callout %}}
 
-[^3]: For stand-alone spreadsheets, this level of compliance is not applicable, we will always deliver spreadsheets with the code that created the spreadsheet. See [Resources/OPA](/resources/opa/#open-materials) 
+Code must be easily readable and possible to run with just one click, and produces tabular data or results[^5]. The Turku Data Science team and Reprex will assist all our research teams in making their data outputs reproducible, particularly with the development of the [dataset](https://dataset.dataobservatory.eu/) package that will ensure that our tabular data outputs will not only be readable by spreadsheet applications but also for machines, i.e. following the standards of the Statistical Data and Metadata Exchange and the W3C Consortium definition of machine-readable output.
 
-All research and innovation team members use version control software and track changes in a shared project repository. All our deliverable are delivered in a version-controlled repository. You can find the list of deliverables with their shared project repositories on the [Resources](/resources/).
-
-## Live Policy Document on Music Economy and Other Open Outputs
-
-We will create Live Policy Document on Music Economy, on Diversity and Circulation,on  Music and Society, and on Music Innovation in a national policy context. We will contribute with automatically refreshed web resources and high-quality indicators about cultural and creative industries, particularly music.  
-
-Our work will be used to monitor the implementation of the `Cultural and Creative Industries Strategy of the Slovak Republic 2030` [Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030](https://www.culture.gov.sk/ministerstvo/strategia-kultury-a-kreativneho-priemyslu-2030/) national policy.
-
-This will be the first high-profile national policy use of our [Digital Music Observatory](https://music.dataobservatory.eu/). Over the course of three years, in cooperation with our Slovak partners, we would like to persuade more and more national policymakers and also regional actors (like the city of Trenčín, the cultural capital of Europe in 2026) to use this collaborative open knowledge platform as a prototype of a European Music Observatory.
+[^5]: For stand-alone spreadsheets, this level of compliance is not applicable, we will always deliver spreadsheets with the code that created the spreadsheet. See [Resources/OPA](/resources/opa/#open-materials) 
