@@ -28,23 +28,23 @@ url_video: ''
 slides: ""
 ---
 
-D1.1 [Economy of music in Europe: Methods and indicators](/resources/european-music-economy/)
+D1.1 [Economy of music in Europe: Methods and indicators](/resources/music-economy-methods-indicators/)
 
-D1.2 [Report on the European Music Economy](/resources/european-music-economy/)
+D1.2 [Report on the European Music Economy](/resources/report-european-music-economy/)
 
 D1.3 [Report on Music Data Improvement Initiatives](/resources/music-data-improvement-initiatives)
 
-D2.1[ Music diversity and circulation: Novel data collection methods and indicators]((/resources/music-diversity-circulation/))
+D2.1[Music diversity and circulation: Novel data collection methods and indicators](/resources/music_diversity_circulation_methods_indicators/)
 
-D2.2 [Report on Music Diversity and Circulation in Europe](/resources/music-diversity-circulation/)
+D2.2 [Report on Music Diversity and Circulation in Europe](/resources/report-music-diversity-circulation)
 
 D3.1 [Music, Society, and Citizenship](/resources/music_society_citizenship/): Novel data collection methods and indicators
 
-D3.2 [Report on Music, Society, and Citizenship in Europe](/resources/music_society_citizenship/)
+D3.2 [Report on Music, Society, and Citizenship in Europe](/resources/report-music-society-citizenship/)
 
 D4.1 [Open-source music data software ecosystem](/resources/open_music_europe_software_ecosystem) and the [Software]() menu.
 
-D4.2 [Report on Music Innovation & Technology in Europe](/resources/music_tech_innovation/)
+D4.2 [Report on Music Innovation & Technology in Europe](/resources/report-music-tech-innovation/)
 
 D4.3 [Software Validation Report](/resources/openmuse_software_validation_report/)
 

@@ -21,21 +21,21 @@ links:
 - icon: github
   icon_pack: fab
   name: "Repository: report assets"
-  url: https://github.com/dataobservatory-eu/music_tech_innovation/
+  url: https://github.com/dataobservatory-eu/report-music-innovation-technology
 - icon: database
   icon_pack: fas
   name: "Partial & Full Deliverables"
   url: https://music.dataobservatory.eu/pillar/innovation/
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://zenodo.org/record/6465096/files/DMO-music-innovation-pillar.pdf?download=1'
 url_slides: ''
 url_video: ''
 
 # Slides (optional).
-slides: ""
+slides: "report-music-innovation-tech"
 ---
 
-The `Report on Music Innovation & Technology in Europe` is developed following the [Open Policy Analysis Guidelines](/resources/opa/).  You can find the repository of all assets on [github.com/dataobservatory-eu/music_tech_innovation/](https://github.com/dataobservatory-eu/music_tech_innovation/).
+The `Report on Music Innovation & Technology in Europe` is developed following the [Open Policy Analysis Guidelines](/resources/opa/).  You can find the repository of all assets on [dataobservatory-eu/report-music-innovation-technology/](https://github.com/dataobservatory-eu/report-music-innovation-technology).
 
 This deliverable belongs to the [Music Tech & Innovation ](https://music.dataobservatory.eu/pillar/innovation/) pillar of our [Open Music Observatory](/resources/open_music_observatory/).

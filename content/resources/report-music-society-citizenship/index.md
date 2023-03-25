@@ -22,24 +22,24 @@ links:
 - icon: github
   icon_pack: fab
   name: "Repository: report assets"
-  url: https://github.com/dataobservatory-eu/music_society_citizenship/
+  url: https://github.com/dataobservatory-eu/report-music-society-citizenship/
 - icon: database
   icon_pack: fas
   name: Partial & Full Deliverables 
   url: https://music.dataobservatory.eu/pillar/music-and-society/
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://zenodo.org/record/6464900/files/Report_European_Music_Society_Citizenship.pdf?download=1'
 url_slides: ''
 url_video: ''
 
 # Slides (optional).
-slides: ""
+slides: "report-music-society-citizenship"
 ---
 
 The `Report on Music, Society, and Citizenship in Europe` is developed following the [Open Policy Analysis Guidelines](/resources/opa/). It will build on the `Music, Society, and Citizenship: Novel data collection methods and indicators` deliverable results (see [below](/resources/music-society-citizenship/#d3-1)).
 
-You can find the repository of all assets on [github.com/dataobservatory-eu/music_society_citizenship/](https://github.com/dataobservatory-eu/music_society_citizenship/).
+You can find the repository of all assets on [github.com/dataobservatory-eu/report-music-society-citizenship/](https://github.com/dataobservatory-eu/report-music-society-citizenship/).
 
 WP3 will analyse and fill data gaps regarding music, society and citizenship in Europe. It will also implement a transferable pilot study to use open data to help MSMEs comply with emerging social and environmental sustainability regulations. The central objectives of WP3 will be to provide indicators that capture social value-adds such as participation in music education, participation in amateur music-making, the role of music in other consumer sectors, and the role of music in social networks; to develop methods for measuring the sustainability of the music industry, in coordination with the SDGs; and to create an open framework for transferring the techniques developed to any willing European market. 
 
@@ -85,8 +85,6 @@ dating back to 2007; the piracy surveys of the EUIPO in years 2013; and the pira
 - Harmonisation with prior surveys will allow the construction of synthetic longitudinal datasets – one of the outputs will be the comparison of cultural access and participation live and online before, during, and after the COVID-19 pandemic, including differences between social segments and impact on well-being.
 - The open collaboration method will be used: all methods and instruments will be fully open, and all data will be harmonised, enabling any representative organisation to localise them and join the action with few time or cost barriers.
 Localisation assistance may be provided in partner countries.
-
-
 
 
 This deliverable belongs to the [Music & Society](https://music.dataobservatory.eu/pillar/music-and-society/) pillar of our [Open Music Observatory](/resources/open_music_observatory/). 

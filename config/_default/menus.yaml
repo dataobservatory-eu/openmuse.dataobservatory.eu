@@ -80,19 +80,19 @@ main:
     weight: 62
     parent: Resources
   - name: WP1 Music Economy
-    url: ../resources/music-economy/
+    url: ../resources/report-european-music-economy/
     weight: 63
     parent: Resources
   - name: WP2 Diversity & Circulation
-    url: ../resources/music-diversity-circulation/
+    url: ../resources/report-music-diversity-circulation/
     weight: 64
     parent: Resources
   - name: WP3 Music Society & Citizenship
-    url: ../resources/music-society-citizenship/
+    url: ../resources/report-music-society-citizenship/
     weight: 65
     parent: Resources
-  - name: WP4 Tech & Innovation
-    url: ../resources/music-tech-innovation/
+  - name: WP4 Innovation & Tech
+    url: ../resources/report-music-innovation-tech/
     weight: 66
     parent: Resources
   - name: WP5 Open Music Observatory

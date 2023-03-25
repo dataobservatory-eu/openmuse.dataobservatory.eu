@@ -1,5 +1,5 @@
 ---
-title: Report on the European Music Economy
+title: "Music economy: methods and indicators"
 summary: 
 tags:
   - Resources
@@ -15,16 +15,16 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: "Repository: indicator development"
-    url: https://github.com/dataobservatory-eu/european_music_economy
-  - icon: github
-    icon_pack: fab
-    name: "Repository: report assets"
-    url: https://github.com/dataobservatory-eu/european_music_economy
+    name: "Repository: economic indicator development"
+    url: https://github.com/dataobservatory-eu/music_economy_methods_indicators/
   - icon: database
     icon_pack: fas
     name: Partial & Full Deliverables 
     url: https://music.dataobservatory.eu/pillar/music-economy/
+  - icon: fast-forward
+    icon_pack: fas
+    name: Used for Report on European Music Economy 
+    url: ../resources/report-european-music-economy/
 
 url_code: ''
 url_pdf: ''
@@ -37,9 +37,6 @@ slides: ""
 ---
 
 `D1.1 Economy of music in Europe: Methods and indicators` produce the methodology and data assets for the `Report on the European Music Economy` is developed following the Open Policy Analysis Guidelines.
-
-`D1.3 Report on the European Music Economy`, for full reproducibility, following the [Open Policy Analysis Guidelines](/resources/opa/), this deliverable is a “live policy document” that is first useful for readers in 2024, but will integrate data as it appears in the pipeline from the inception of the project (and illustration data at the proposal stage).The policy context regarding the economy of music in Europe is described.  Lastly, it analyses the transfer potential of the Bulgarian and Hungarian pilot study to other European music ecosystems, as a new best practice. It is designed to be readable as a stand-alone deliverable, but the data it presents will also be integrated into D5.1 [Open Music Observatory](/resources/open-music-observatory/) as the Music Economy part of broader [Digital Music Observatory](https://music.dataobservatory.eu/pillar/music-economy/).
-
 
 `D1.1 Economy of music in Europe: Methods and indicators`, following the [Open Policy Analysis Guidelines](/resources/opa/), identifies critical research questions, data sources and gaps, and data collection methods regarding the economy of music in Europe. It also presents indicators co-developed to measure the economy of music in Europe. The indicator candidates are reviewed and selected indicators are added to the D5.1 [Open Music Observatory](/resources/open-music-observatory/) as the Music Economy part of broader [Digital Music Observatory](https://music.dataobservatory.eu/pillar/music-economy/).
 
@@ -68,4 +65,4 @@ etc.
 
 A pilot study demonstrates exemplary how improved data collection on the value of music can be leveraged to improve artist revenues.
 
-You can find the repository of all assets on [github.com/dataobservatory-eu/european_music_economy](https://github.com/dataobservatory-eu/european_music_economy).
+You can find the repository of all assets on [github.com/dataobservatory-eu/music_economy_methods_indicators/](https://github.com/dataobservatory-eu/music_economy_methods_indicators/).
