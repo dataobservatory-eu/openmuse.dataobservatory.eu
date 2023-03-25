@@ -31,3 +31,24 @@ format.
 </br></br></br></br></br></br></br></br></br>)
 
 ---
+
+### Experience so far
+
+- We learned in `WP3` that using different spreadsheet applications on Word, Mac, Linux (Excel, Google, Libre) can have disastrous interoperability and many hours of manual revision of lost Eastern European characters or non-printing symbols.
+- Simplification is key to working across organizations using different operational systems and workflows.
+- The current preliminary delivery template is too Word-specific and complex.
+
+---
+
+### Considerations 
+
+- We must comply with the [Open Policy Analysis Guidelines](https://openmuse.dataobservatory.eu/resources/opa/) and [FAIR](https://www.go-fair.org/). Both require interoperability and reusability of our files. 
+- Furthermore, the EU FAIR requires findability and accessibility, so we must dissemintate our files on open repositories. You need to work in an interoperable format, or in a simple Word template that can be converted back to a simpler format.
+---
+
+### Testing
+
+- Upload a Word file to Google Docs. 
+- Use the free [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) and convert it to a simpler, interoperable, universal formatting. 
+- The smallest common denominator is markdown for simple files, and perhaps tex for scientific publications. Do not use Word formatting that is not present in [markdown](https://www.markdownguide.org/).
+- Check if the resulting [markdown](https://www.markdownguide.org/) is easily readable in any text editor. Send this `.md` file through pandoc, knitr, or any reproducible application. If it breaks, it is not simple enough.

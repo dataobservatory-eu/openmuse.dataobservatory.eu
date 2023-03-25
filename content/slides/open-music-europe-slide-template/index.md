@@ -20,7 +20,7 @@ slides:
 - Download the slides in [pptx](https://github.com/dataobservatory-eu/open_music_europe_templates/blob/main/presentation/TEMPLATE_Open_Music_Eruope_WPx_Presentation_PartnerAcronym.pptx?raw=true) or [png](https://github.com/dataobservatory-eu/open_music_europe_templates/tree/main/presentation/TEMPLATE_Open_Music_Eruope_WPx_Presentation_PartnerAcronym).
 - Send feedback as [issues](https://github.com/dataobservatory-eu/open_music_europe_templates/issues) (refer to slide number or slide title), one slide, one problem, one issue at a time. Faster, task immediately assigned to a person.
 - Get in touch with the [Synyo](https://openmuse.dataobservatory.eu/authors/synyo/) team on [Keybase](https://keybase.io/), not immediately assigned. 
-- Examples: [adjust margins](https://github.com/dataobservatory-eu/open_music_europe_templates/issues/3) (click > to see why!); [Define Word document template titles](https://github.com/dataobservatory-eu/open_music_europe_templates/issues/1)
+- Examples: [adjust margins](https://github.com/dataobservatory-eu/open_music_europe_templates/issues/3) (click > to see why!).
 
 </br></br></br></br></br></br></br></br></br>)
 
@@ -33,6 +33,21 @@ slides:
 - Speaker notes: `S` | Fullscreen: `F` | Zoom: `Alt + Click`
 
 --- 
+
+### Experience so far
+
+- We learned in `WP3` that using different spreadsheet applications on Word, Mac, Linux (Excel, Google, Libre) can have disastrous interoperability and many hours of manual revision of lost Eastern European characters or non-printing symbols.
+- Simplification is key to working across organizations using different operational systems and workflows.
+
+---
+
+### Problems
+- The template can be used preliminary for conferences or internal presentations, but it cannot be disseminated in this form.
+- The current preliminary delivery template is too Powerpoint-specific after two revisions. We hopefully have no Microsoft only fonts any longer, but there are further refinements needed.
+- It could be improved to work on different screens (the margins, even after two refinements, are still too tight.) Just click through the next slides on your laptop and tablet/or phone. 
+- Each slide must be duplicated in the template (with or without header). It is a bad practice to add headers before dessimination, because they will not show up in the search engines and table of contents.
+
+---
 
 {{< slide background-image="Slide1.PNG" >}}
 </br></br></br></br></br></br></br></br></br>
