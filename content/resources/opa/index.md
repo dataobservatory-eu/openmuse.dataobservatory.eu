@@ -50,6 +50,24 @@ image:
 
 Our ambition is to truly maximize transparency, (re)usability, scientific, policy, and business impact while embracing the best practices laid out in the the recommendations of the *Reproducibility of scientific results scoping report*, and the *Progress on Open Science: Towards a Shared Research Knowledge System* policy documents of the European Commission's DG Research & Innovation, as well as the best practices outlined  in the evidence-based *Knowledge4Policy* [K4P](https://knowledge4policy.ec.europa.eu/home_en) platform of the European Commission. For the first time in Europe, we will apply and contextualize the [Open Policy Analysis Guidelines](/resources/opa/), which grew out of several initiatives in research transparency with the aim of maximizing benefits in the context of the [Foundations for Evidence-based Policy Making Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174) initiative in the United States. We want to ensure that by relying not only on the best European practices, but considering trans-Atlantic experiences, we will make the most out of the opportunities offered by the European [Open Data Directive of 2019]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024)). This will not only mean rendering a dramatically increased data availability for our partners, as well as increased quality assurance and transparency in our work, but also immediate data access. Following the EU & US best practices we have already placed _before submitting our proposal_ our important software tools, methodologies, and sample data in the [Zenodo](https://zenodo.org/communities/music_observatory/) repository.
 
+{{< spoiler text="What we promise in the Open Music Europe grant agreement?" >}}
+The OPA guidelines go farther than current Horizon Europe recommendations, subjecting policy research and deliberation to standards as rigorous as those used in e.g. open-source software development and open science peer review. 
+
+The guidelines consist of three layers: 
+- [x] open materials (i.e., the evidence considered in policy)
+- [x] open analysis (the analytical procedures to which the evidence is subject)
+- [x] and open output (the indicators, recommendations, etc. derived from the analysis) 
+
+Each level must be fully replicable: e.g., 
+- [x] all file structures must be standardised, 
+- [x] all data rendered open and labelled, 
+- [x] all methods and code open-source, 
+- [x] and all outputs traceable to the materials and methods used to reach them.
+
+Establishing a clear link between input and output by displaying how the output changes under
+
+{{< /spoiler >}}
+
 ## Open Materials (Level 3) {#open-materials}
 
 {{< spoiler text="Compliance in practice" >}}
