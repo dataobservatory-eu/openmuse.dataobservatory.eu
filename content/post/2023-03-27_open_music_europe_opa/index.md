@@ -58,7 +58,7 @@ The `Open Music Europe` consortium is committed to implementing the highest stan
 
 The **Open Policy Analysis**[^1] is an approach to policy analysis wherein data, code, materials, and clear accounts of methodological decisions are made freely available to facilitate collaboration, discussion, and reuse. This helps a transparent policy analysis that is always inclusive to comments, and which is easy to review.  We believe that this will lead to higher quality and more transparency in the use of resources. You can read in details how the `Open Music Europe` consortium applies the OPA Guidelines to deliver its results in the [Resources/OPA](https://openmuse.dataobservatory.eu/resources/opa/) section of our project website.
 
-[^1]: Footnote example. You can download the nine requirements in a tabular form on the [www.bitss.org](http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf) website.
+[^1]: You can download the nine requirements in a tabular form on the [www.bitss.org](http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf) website.
 
 The **GO FAIR** initiative of the European Open Science Cloud (EOSC)[^2] is mandatory to apply to the Horizon Europe program.  It aims to make the data and services rendered by the Open Music Europe consortium to its target groups Findable, Accessible, Interoperable and Reusable (FAIR) for machines. Compliance with this European aim requires the application of OPA on Level 3, which ensures reproduciblity and readability for machines.
 
@@ -111,3 +111,10 @@ The report utilizes the indicators developed in Open Music Europe D1.1 that you 
 Code must be easily readable and possible to run with just one click, and produces tabular data or results[^5]. The Turku Data Science team and Reprex will assist all our research teams in making their data outputs reproducible, particularly with the development of the [dataset](https://dataset.dataobservatory.eu/) package that will ensure that our tabular data outputs will not only be readable by spreadsheet applications but also for machines, i.e. following the standards of the Statistical Data and Metadata Exchange and the W3C Consortium definition of machine-readable output.
 
 [^5]: For stand-alone spreadsheets, this level of compliance is not applicable, we will always deliver spreadsheets with the code that created the spreadsheet. See [Resources/OPA](/resources/opa/#open-materials) 
+
+## Open Output
+
+Our aim is to be open, transparent and inclusive from the planning of a policy analysis till we are finished.  Our open output techniques ensure that our analysis can be easily found in global libraries, and it is connected to similar work. Read more in our *Contributors' Manual for the Data Observatories and Open Collection* about how we make the output more [findable](https://manual.dataobservatory.eu/findable.html), [accessible](https://manual.dataobservatory.eu/accessible.html), easier to integrate with other digital assets, i.e., more [interoperable](https://manual.dataobservatory.eu/interoperability.html) and more [reusable](https://manual.dataobservatory.eu/reuse.html).
+
+**Link**:
+- [Contributors' Manual for the Data Observatories and Open Collections](https://manual.dataobservatory.eu/)

@@ -9,9 +9,13 @@ main:
     url: '#about'
     weight: 11
     parent: Home
+  - name: Manual for Contributors
+    url: https://manual.dataobservatory.eu/
+    weight: 12
+    parent: Home
   - name: Terms & Conditions
     url: ../terms
-    weight: 12
+    weight: 13
     parent: Home
   - name: News
     weight: 20
@@ -69,10 +73,14 @@ main:
     parent: Data
   - name: Resources
     url: ../resources/
-    weight: 49
+    weight: 59
     identifier: Resources
   - name: Overview
     url: ../resources/
+    weight: 60
+    parent: Resources
+  - name: Manual for Contributors
+    url: https://manual.dataobservatory.eu/
     weight: 61
     parent: Resources
   - name: Open Policy Analysis Guidelines
