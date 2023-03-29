@@ -21,7 +21,7 @@ main:
     weight: 20
     identifier: News
   - name: Blog
-    url: '#posts'
+    url: ../post/
     weight: 22
     parent: News
   - name: Topics
