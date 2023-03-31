@@ -48,6 +48,8 @@ slides: ""
 
 Our “smart document” is always live: it contains code that searches for data updates or changes in the law.  It is a document that includes reproducible research code and makes sure that your document contains the latest information.  It is a resource that, when uploaded to the web 3.0, cannot only be downloaded, but finds itself its audience, places itself into global libraries, data exchanges, automated websites. 
 
+<td style="text-align: center;">{{< figure src="img/blogposts_2023/screenshot_slovak_mou_2023.webp" caption="EUBA and the Open Music Europe consortium will develop an indicator monitoring system. Reprex’s [Smart Policy Documents](/apps/smart-policy-documents/) technology will be used to keep it on a web resource dashboard. See [Central Register of Contracts](https://www.crz.gov.sk/zmluva/7645338/) (in Slovak)." numbered="false" >}}</td>
+
 📊  Downloads or updates reliable statistical data, utilizing the SDMX standard, for example, Eurostat datasets, which is placed into your text as a table, a data visualization, and its source as a footnote and bibliographic citation.
 
 ⚖️ Updates legal citations from Eur-LEX, i.e. contains the latest form of policy or legal documents, and flags for the researchers any important changes in the lifecycle of the citation (legal text goes out of force, amended, important court decisions get connected).
