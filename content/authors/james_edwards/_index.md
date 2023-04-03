@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- data curators
+- researchers
 ---
 
 James Edwards, PhD is a senior researcher at SINUS Market and Social Research in Berlin, Germany. After completing his doctorate in Systematic Musicology at UCLA in 2015, he conducted research as a visiting scholar at Okinawa International University and taught as an adjunct professor at Lewis & Clark College prior to joining SINUS in 2017. His work at SINUS consists of mixed-methods social research design and implementation for governmental and non-governmental organisations in Germany and beyond; concurrently, he has remained active in the field of musicology, working primarily on socio-ecological and socio-technical systems approaches to musical culture in Japan. He assists the DMO in curating primary survey data, as well as in musicological dimensions of DMO research and dissemination.

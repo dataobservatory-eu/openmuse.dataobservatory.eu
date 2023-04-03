@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 
 [Reprex](https://www.reprex.nl/), is a Netherlands-based start-up company that makes big data reliable and accountable, delivering trustworthy analytics and AI solutions. We validate multiple data sources and are able to merge private and proprietary data with open data. We bring novel insight into policy and business problems, as well as scientific research. Our work addresses the potentially negative effects of black-box proprietary Algorithms. Our diverse team is particularly experienced in music, the creative industries, and digital humanities, where data is scattered in small organizations.

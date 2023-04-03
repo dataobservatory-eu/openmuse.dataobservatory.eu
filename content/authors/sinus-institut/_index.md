@@ -52,7 +52,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 
 [SINUS-Institute](https://www.sinus-institut.de/en) is an independent market and social research institute that frequently carries out commissioned research for governmental and non-governmental organisations. SINUS helps the Digital Music Observatory with developing and validating survey instruments, and carries out surveys using computer-assisted web interviews (CAWI), by telephone using computer-assisted telephone interviews (CATI), in person using computer-assisted personal interviews (CAPI) or paper and pencil interviews (PAPI), or with a mixed-mode design. Besides correctly operationalizing research questions and defining survey target groups, it is important to clarify and continuously monitor sample sizes, quota variables, and field control conditions in order to provide statistically valid results.

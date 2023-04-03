@@ -47,45 +47,64 @@ main:
     weight: 40
     identifier: Data
   - name: 🏛️ Music & Economy
-    url: '#pillars'
+    url: https://music.dataobservatory.eu/pillar/music-economy/
     weight: 41
     parent: Data
   - name: 🏛️ Diversity & Circulation
-    url: '#pillars'
+    url: https://music.dataobservatory.eu/pillar/diversity-circulation/
     weight: 42
     parent: Data
   - name: 🏛️ Music & Society
-    url: '#pillars'
+    url: https://music.dataobservatory.eu/pillar/music-and-society/
     weight: 43
     parent: Data
   - name: 🏛️ Music Tech & Innovation
-    url: '#pillars'
+    url: https://music.dataobservatory.eu/pillar/innovation/
     weight: 44
     parent: Data
   - name: 📖 Open Science Repository
     url: 'https://zenodo.org/communities/music_observatory'
     weight: 48
     parent: Data
-  - name: 🖥️ API
-    url: '#data'
-    weight: 49
-    parent: Data
-  - name: Publications
-    url: '#featured'
+  - name: Resources
+    url: ../resources/
     weight: 60
-    identifier: Publications
-  - name: Featured
-    url: '#featured'
-    weight: 60
-    parent: Publications
-  - name: All Publications
-    url: '#publications'
+    identifier: Resources
+  - name: Overview
+    url: ../resources/
+    weight: 61
+    parent: Resources
+  - name: Music Economy
+    url: ../resources/music-economy/
     weight: 62
-    parent: Publications
-  - name: Contributors
+    parent: Resources
+  - name: Diversity & Circulation
+    url: ../resources/music-diversity-circulation/
+    weight: 63
+    parent: Resources
+  - name: Music Society & Citizenship
+    url: ../resources/music-society-citizenship/
+    weight: 64
+    parent: Resources
+  - name: Tech & Innovation
+    url: ../resources/music-tech-innovation/
+    weight: 65
+    parent: Resources
+  - name: Open Music Observatory
+    url: ../resources/open-music-observatory/
+    weight: 66
+    parent: Resources
+  - name: Open Policy Analysis
+    url: ../resources/opa/
+    weight: 67
+    parent: Resources
+#    url: '#publications'
+#    weight: 62
+#    parent: Publications
+  - name: Consortium
     url: '#contributors'
     weight: 70
-    identifier: Contributors
+    identifier: Consortium
   - name: Contact
     url: '#contact'
     weight: 90

@@ -51,6 +51,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 The [University of Economics in Bratislava](https://euba.sk/en/) (EUBA) an economics university that is involved in international research in the areas of among other topics in the technological transformation and the transformation of regional economies; a social and economic tool for stimulating innovation in business; the digitalisation and automation revolution in economic processes; urban development and the development of human capital in cities (smart cities). The Digital Music Observatory is cooperating with the EUBA in creating relevant indicators for the creative industries, particularly the music industry, within the context of Music Moves Europe, post-Covid recovery, the European Green Deal, the Sustainable Development Goals of the United Nations Sustainable Development Goals.

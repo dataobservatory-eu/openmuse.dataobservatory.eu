@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 
 The [Music Innovation HUb](https://musicinnovationhub.org/home-en/) - MIH powers innovative, socially responsible projects in the music industry. Launched in Milan in 2018, it is the first social enterprise of its kind in Italy and is backed by Fondazione Giordano dell’Amore Social Venture - the social impact investment fund from Fondazione Cariplo---, OxA srl, and Music Management Club. MIH develops solutions that support the growth of the music industry and its stakeholders, and helps businesses find a more sustainable future through music projects.

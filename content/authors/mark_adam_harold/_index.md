@@ -56,9 +56,9 @@ social:
   link: https://github.com/markadamharold
   
 # Organizational groups that you belong to (for People widget)
-#   Change - join us to - data curators
+#   Change - join us to - researchers
 user_groups: 
-  - data curators
+  - researchers
 ---
 
 Mark is a music and nightlife consultant specialising in public affairs and communications. Former City Councillor and Night Mayor of Vilnius, first elected immigrant in the history of Lithuania. Leading the [Listen Local Lithuania](/project/listen-local) project. 

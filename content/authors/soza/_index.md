@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 
 The **Slovak Performing and Mechanical Rights Society** (SOZA), executes international standards on copyright protection in the territory of the Slovak Republic. SOZA does not only  represent local authors in Slovakia, but also all foreign authors from those countries where CMOs concluded an Agreement on Reciprocal Representation. SOZA represents rightsholders--- authors, sub-authors, music arrangers and authors of written part of the work, i.e. lyrics, libretto, as well as publishers of those works. On their behalf SOZA monitors the use of musical works in the territory of the Slovak Republic, collects royalties and at the same time provides administrative, economic and legal services. 

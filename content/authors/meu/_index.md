@@ -51,7 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 
 [Music Export Ukraine](https://www.musicexportukraine.com/) is an independent initiative that helps Ukrainian emerging artists to establish connections, promote their music, and develop a career on the international level. Main activities include artist support, cross-sector collaborations, international exchange programs, educational events, along with the only export-oriented music conference and showcase organized twice a year in Kyiv ([Music Conference Ukraine](https://www.musicexportukraine.com/about/previous-editions)).

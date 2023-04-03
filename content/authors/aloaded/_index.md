@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- institutional partners
+- consortium partners
 ---
 
 [Aloaded](https://www.aloaded.com/), designed & built in Sweden, is a **100% independent** full service digital distribution company. Aloaded is sprung out of the independent music scene and offers  to the independent music community. Most distributors are controlled by the three major music corporations---but not Aloaded. Using Aloaded’s distribution platform independent artists and labels can keep 100 % control of your copyrights.  They offer advance and catalogue buy outs, or let you partners manage their entire copyright/neighboring right stream.

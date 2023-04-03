@@ -6,7 +6,7 @@ title: Open Music Europe
 superuser: true
 
 # Role/position/tagline
-role: An inclusive, bottom-up, open, collaborative observatory for the European music industry, sector and heritage organizations.
+role: An open, scalable data-to-policy pipeline for European Music Ecosystems.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,10 @@ organizations:
     url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
   - name: CORDIS
     url: https://cordis.europa.eu/project/id/101095295
-  - name: JUMP European Music Market Accelerator
-    url: https://www.jumpmusic.eu/fellow2021/automated-music-observatory/
-  - name: Yes!Delft AI+Blockchain Validation Lab
-    url: https://www.yesdelft.com/focus-areas/artificial-intelligence/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Big data for all---small venues, independent labels, startups, great and undiscovered artists, and lead the way to create a truly inclusive, decentralized music obsevatory.
+bio: Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning and accuracy. We provide the data needed for these actions.
 
 # Interests to show in About widget
 interests: ""
@@ -64,13 +60,16 @@ email: ''
 highlight_name: true
 ---
 
-The [OpenMuse](https://music.dataobservatory.eu/project/openmuse/) project brings together music industry stakeholders and researchers from 12 European countries (11 EU countries and Ukraine). Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers).
+`Open Music Europe` brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning and accuracy. We provide the data needed for these actions.
+
+Using transparent methods and tools, `Open Music Europe` (official abbreviation: OpenMusE) maps the policy as well as the data landscape. The project bridges data gaps and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report our findings and every step taken to reach them.
+
+Using the [Open Music Observatory](/resources/open-music-observatory/) pillars added to the prototype of the future _European Music Observatory_, i.e., the [Digital Music Observatory](https://music.dataobservatory.eu/) and our [open-source software](/software), music MSMEs without technical departments or expertise will be able to access and analyse open data; model volume and value, including of zero-price uses; create better business models; and generate corporate social responsibility and sustainability reports; all at a fraction of current costs. We validate these tools in four pilot studies that will bring concrete benefits to stakeholders within the project lifespan.
+
+{{< icon name="sun" pack="fas" >}}We are committed to the {{< staticref "https://www.bitss.org/opa/community-standards/" "newtab" >}}Guidelines for Open Policy Analysis{{< /staticref >}}.
 
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.  {{< icon name="sun" pack="fas" >}}We are committed to the {{< staticref "https://www.bitss.org/opa/community-standards/" "newtab" >}}Guidelines for Open Policy Analysis{{< /staticref >}}.
-
-
-Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/): [Music Economy](/pillars/music-and-society/); [Diversity & Circulation](/pillars/diversity-circulatoin/); [Music & Society](/pillars/music-and-society/) and [Innovation - innovative data applications](/#usecases)
+Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/): `WP1` [Music Economy](https://music.dataobservatory.eu//pillars/music-and-society/); `WP2` [Diversity & Circulation](https://music.dataobservatory.eu//pillars/diversity-circulatoin/); `WP3` [Music & Society](https://music.dataobservatory.eu//pillars/music-and-society/) and `WP4` [Innovation - innovative data applications](https://music.dataobservatory.eu//#usecases).
 
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
