@@ -50,6 +50,11 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Organizational groups that you belong to (for People widget)
+
+user_groups:
+- consortium partners
 ---
 
 HearDis! is a leading agency for music, sound and voice. We believe in the power of sound as the universal language to build meaningful connections and thriving communities. In doing so, our creative team in Stuttgart and Berlin (Germany) designs, produces and implements holistic sound identities for brands, entertainment and culture.

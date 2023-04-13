@@ -30,7 +30,14 @@ all_day: false
 publishDate: '2022-09-18T13:18:00+02:00'
 
 authors: []
-tags: [OpenMuse, Listen Local]
+tags: [Open Music Europe, Listen Local, Slovakia]
+
+links:
+   - icon: fa-eu-emblem
+     icon_pack: far
+     name: 🇪🇺 Consortium on CORDIS
+     url: https://cordis.europa.eu/project/id/101095295
+
 
 # Is this a featured talk? (true/false)
 featured: false

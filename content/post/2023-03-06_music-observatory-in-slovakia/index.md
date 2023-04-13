@@ -31,8 +31,12 @@ links:
   url: https://music.dataobservatory.eu/apps/smart-policy-documents/
 - icon: linkedin
   icon_pack: fab
-  name: Reprex
-  url: https://www.linkedin.com/company/68855596/
+  name: Follow us
+  url: https://www.linkedin.com/company/79286750/
+- icon: fa-eu-emblem
+  icon_pack: far
+  name: 🇪🇺 Consortium on CORDIS
+  url: https://cordis.europa.eu/project/id/101095295
 
 # Featured image
 image:
@@ -47,12 +51,14 @@ tags:
   - Smart Policy Document
 ---
 
-The Open Music Europe Consortium and Reprex signed a Memorandum of Understanding with the Ministry of Culture of the Slovak Republic, the Economic University of Bratislava, SOZA on utilizing the Open Policy Analysis results.
+The `Open Music Europe Consortium`, Reprex and SOZA signed a Memorandum of Understanding with the Ministry of Culture of the Slovak Republic, the Economic University of Bratislava, SOZA on utilizing the Open Policy Analysis results.
 
 <td style="text-align: center;">{{< figure src="img/blogposts_2023/MoU_signature_20230306_02_2x1.jpg" caption="From left to right: Ľubomír Burgr, Chariman of the Board (SOZA); [Dr James Edwards](https://music.dataobservatory.eu/authors/james_edwards/) Open Music Europe program director; Ferdinand Daňo, rector of EUBA; Rado Kutaš, state secretary; Tomaš Mikš, SOZA; [Daniel Antal](https://reprex.nl/author/daniel-antal/), co-founder of Reprex. Photo: [Dominika Semaňáková](https://music.dataobservatory.eu/authors/dominika_semanakova/)." numbered="false" >}}</td>
 
 This cooperation is a very important milestone for our the Digital Music Observatory: our reproducible research will be used in an official national policy context in an EU member state. Our [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) has set a best practice within the Slovak Republic.
 
 We will create Live Policy Document on Music Economy, on Diversity and Circulation,on  Music and Society, and on Music Innovation in a national policy context. We will contribute with automatically refreshed web resources and high-quality indicators about cultural and creative industries, particularly music.  Our work will be used to monitor the implementation of the `Cultural and Creative Industries Strategy of the Slovak Republic 2030` [Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030](https://www.culture.gov.sk/ministerstvo/strategia-kultury-a-kreativneho-priemyslu-2030/) national policy.
+
+<td style="text-align: center;">{{< figure src="img/blogposts_2023/screenshot_slovak_mou_2023.webp" caption="EUBA and the Open Music Europe consortium will develop an indicator monitoring system. Reprex’s [Smart Policy Documents](/apps/smart-policy-documents/) technology will be used to keep it on a web resource dashboard. See [Central Register of Contracts](https://www.crz.gov.sk/zmluva/7645338/) (in Slovak)." numbered="false" >}}</td>
 
 This will be the first high-profile national policy use of our [Digital Music Observatory](https://music.dataobservatory.eu/). Over the course of three years, in cooperation with our Slovak partners, we would like to persuade more and more national policymakers and also regional actors (like the city of Trenčín, the cultural capital of Europe in 2026) to use this collaborative open knowledge platform as a prototype of a European Music Observatory.

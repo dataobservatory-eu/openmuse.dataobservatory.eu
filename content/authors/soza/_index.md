@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Scientific parnter, economics, statistiscs, finance
+role: WP1 Music Economy | WP2 Diversity & Circulation
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,10 @@ organizations:
 bio: SOZA is a founding partner of the Digital Music Observatory and its precedessor, [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/).
 
 topics:
-- Survey design
-- Survey implementation
-- Quantiative and qualitative research
+   - Music valuation
+   - Listen Local
+   - Music export
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,7 +60,7 @@ user_groups:
 - consortium partners
 ---
 
-The **Slovak Performing and Mechanical Rights Society** (SOZA), executes international standards on copyright protection in the territory of the Slovak Republic. SOZA does not only  represent local authors in Slovakia, but also all foreign authors from those countries where CMOs concluded an Agreement on Reciprocal Representation. SOZA represents rightsholders--- authors, sub-authors, music arrangers and authors of written part of the work, i.e. lyrics, libretto, as well as publishers of those works. On their behalf SOZA monitors the use of musical works in the territory of the Slovak Republic, collects royalties and at the same time provides administrative, economic and legal services. 
+The **Slovak Performing and Mechanical Rights Society** (SOZA), executes international standards on copyright protection in the territory of the Slovak Republic. SOZA does not only  represent local authors in Slovakia, but also all foreign authors from those countries where CMOs concluded an Agreement on Reciprocal Representation. SOZA represents rightsholders—authors, sub-authors, music arrangers and authors of written part of the work, i.e. lyrics, libretto, as well as publishers of those works. On their behalf SOZA monitors the use of musical works in the territory of the Slovak Republic, collects royalties and at the same time provides administrative, economic and legal services. 
 
 SOZA is a founding partner of the Digital Music Observatory and its precedessor, [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/). 
 
